@@ -58,5 +58,7 @@
 }
 
 - (IBAction)ShareOnTwitter:(id)sender {
+    TWTweetComposeViewController *twitter = [[TWTweetComposeViewController alloc] init];
+    [self presentViewController:twitter animated:YES completion:nil];
 }
 @end
