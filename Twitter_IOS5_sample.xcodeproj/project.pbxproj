@@ -23,11 +23,11 @@
 		E18CE1F6139F161600C27DD5 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		E18CE1F8139F161600C27DD5 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		E18CE1FA139F161600C27DD5 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		E18CE1FE139F161600C27DD5 /* Twitter_IOS5_sample-Info.plist */ = {isa = PBXFileReference; path = "Twitter_IOS5_sample-Info.plist"; sourceTree = "<group>"; };
+		E18CE1FE139F161600C27DD5 /* Twitter_IOS5_sample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Twitter_IOS5_sample-Info.plist"; sourceTree = "<group>"; };
 		E18CE200139F161600C27DD5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		E18CE202139F161600C27DD5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E18CE204139F161600C27DD5 /* Twitter_IOS5_sample-Prefix.pch */ = {isa = PBXFileReference; path = "Twitter_IOS5_sample-Prefix.pch"; sourceTree = "<group>"; };
-		E18CE205139F161600C27DD5 /* Twitter_IOS5_sampleAppDelegate.h */ = {isa = PBXFileReference; path = Twitter_IOS5_sampleAppDelegate.h; sourceTree = "<group>"; };
+		E18CE204139F161600C27DD5 /* Twitter_IOS5_sample-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Twitter_IOS5_sample-Prefix.pch"; sourceTree = "<group>"; };
+		E18CE205139F161600C27DD5 /* Twitter_IOS5_sampleAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Twitter_IOS5_sampleAppDelegate.h; sourceTree = "<group>"; };
 		E18CE206139F161600C27DD5 /* Twitter_IOS5_sampleAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Twitter_IOS5_sampleAppDelegate.m; sourceTree = "<group>"; };
 		E18CE208139F161600C27DD5 /* Twitter_IOS5_sampleViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Twitter_IOS5_sampleViewController.h; sourceTree = "<group>"; };
 		E18CE20A139F161600C27DD5 /* Twitter_IOS5_sampleViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Twitter_IOS5_sampleViewController.m; sourceTree = "<group>"; };

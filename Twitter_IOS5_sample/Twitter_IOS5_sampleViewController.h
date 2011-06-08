@@ -9,5 +9,10 @@
 #import <UIKit/UIKit.h>
 
 @interface Twitter_IOS5_sampleViewController : UIViewController
+{
+    
+}
+
+- (IBAction)ShareOnTwitter:(id)sender;
 
 @end
