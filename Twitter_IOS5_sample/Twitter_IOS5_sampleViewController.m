@@ -57,4 +57,6 @@
     return (interfaceOrientation != UIInterfaceOrientationPortraitUpsideDown);
 }
 
+- (IBAction)ShareOnTwitter:(id)sender {
+}
 @end

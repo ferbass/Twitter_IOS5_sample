@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <Twitter/TWTweetComposeViewController.h>
 
 @interface Twitter_IOS5_sampleViewController : UIViewController
 {
